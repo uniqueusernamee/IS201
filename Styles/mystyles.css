@@ -1,0 +1,23 @@
+/*!Brooklyn Raymond 12/8/2021*/
+       body {
+            background-color:rgb(235, 186, 52);)
+        }
+        h2 {
+            color:maroon;
+            font-family:initial
+        }
+        h1{
+            color: black
+        }
+        p{
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+        }
+        h1{
+            font-weight: bold;
+        }
+        a{
+            font-size: xx-large;
+            color: crimson;
+        }
+ 
