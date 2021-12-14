@@ -26,6 +26,7 @@ body{
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+}
 
 /* Header expands and contracts horizontally as the page is resized*/ 
     resize: both;
