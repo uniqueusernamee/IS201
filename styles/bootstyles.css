@@ -30,13 +30,12 @@ body{
 /* Header expands and contracts horizontally as the page is resized*/ 
     resize: both;
     overflow: auto;
-<style>
+      
     footer {
         text-align: center;
         padding: 3px;
         background-color: DarkSalmon;
         color: blue;
     }
- </style>
 
     
